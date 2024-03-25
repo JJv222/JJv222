@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm JJv222</h1>
+<h3 align="center">A passionate student from Poland, who loves learning programming and exploring new things.</h3>
 
-<!--
-**JJv222/JJv222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🌱 I’m currently learning: </h2>
+- C# <br>
+- .NET
+<br><br><br></br>
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,py,html,css,bootstrap)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJv222&layout=pie&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</div>
