@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm JJv222</h1>
-<h3 align="center">A passionate student from Poland, who loves learning programming and exploring new things.</h3>
+<h3 align="center">ICT Working Student & Junior Java Developer at <a href="https://www.comarch.pl/">Comarch Sp. z o.o.</a></h3>
 
 <h2>🌱 I’m currently learning: </h2>
-- C# <br>
+- Java Apache Camel <br>
 - Java Spring <br>
 - Js/Ts React 
 <br><br><br></br>
