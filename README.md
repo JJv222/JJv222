@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JJv222</h1>
-<h3 align="center">ICT Working Student & Junior Java Developer at <a href="https://www.comarch.pl/">Comarch Sp. z o.o.</a></h3>
+<h3 align="center">ICT Working Student & Junior Java Developer at <a href="https://www.comarch.pl/">Comarch SA</a></h3>
 
 <h2>🌱 I’m currently learning: </h2>
 - Java Apache Camel <br>
